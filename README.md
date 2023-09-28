@@ -16,7 +16,7 @@ Technologies Used
 
 Usage
 1. Clone this repository to your local machine:
-git clone https://github.com/your-username/drum-kit.git
+git clone [https://github.com/your-username/drum-kit.git](https://github.com/Ibrahim99575/web-drum-play.git)
 2. Open the index.html file in your web browser to start using the drum kit.
 
 How It Works
@@ -36,7 +36,7 @@ If you'd like to contribute to this project, please follow these steps:
 5. Submit a pull request to the original repository.
 
 License
-- This project is licensed under the <a href="https://opensource.org/license/mit/">MIT License</a>.
+- This project is licensed under the <a href="[https://opensource.org/license/mit/](https://github.com/Ibrahim99575/web-drum-play/blob/fd574d3b7ff978c83c95bece92f8c7ba4486b120/LICENSE)https://github.com/Ibrahim99575/web-drum-play/blob/fd574d3b7ff978c83c95bece92f8c7ba4486b120/LICENSE/">MIT License</a>.
 
 Acknowledgments
 - Drum sounds obtained from Free Drum Kits.
