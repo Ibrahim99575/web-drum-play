@@ -1,5 +1,4 @@
-Drum Kit 🥁
-Drum Kit
+# Drum Kit 🥁 Drum Kit
 
 Description
 This is a simple interactive web application that simulates a drum kit. Users can click on the drum buttons or use keyboard keys to play drum sounds associated with each button.
@@ -36,7 +35,7 @@ If you'd like to contribute to this project, please follow these steps:
 5. Submit a pull request to the original repository.
 
 License
-- This project is licensed under the <a href="[https://opensource.org/license/mit/](https://github.com/Ibrahim99575/web-drum-play/blob/fd574d3b7ff978c83c95bece92f8c7ba4486b120/LICENSE)https://github.com/Ibrahim99575/web-drum-play/blob/fd574d3b7ff978c83c95bece92f8c7ba4486b120/LICENSE/">MIT License</a>.
+- This project is licensed under the <a href="https://github.com/Ibrahim99575/web-drum-play/blob/fd574d3b7ff978c83c95bece92f8c7ba4486b120/LICENSE/">MIT License</a>.
 
 Acknowledgments
 - Drum sounds obtained from Free Drum Kits.
