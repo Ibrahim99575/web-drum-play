@@ -8,7 +8,7 @@
 
 
 ### Try it!
--<a href="https://ibrahim99575.github.io/web-drum-play/">Play</a>
+- Click Here to Play: <a href="https://ibrahim99575.github.io/web-drum-play/">Play</a>
 ### Features
 - Play drum sounds by clicking on the buttons or using keyboard keys (w, a, s, d, j, k, l).
 - Each button corresponds to a specific drum sound.
