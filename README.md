@@ -1,10 +1,10 @@
 # Drum Kit 🥁 Drum Kit
 
 Description
-This is a simple interactive web application that simulates a drum kit. Users can click on the drum buttons or use keyboard keys to play drum sounds associated with each button.
+- This is a simple interactive web application that simulates a drum kit. Users can click on the drum buttons or use keyboard keys to play drum sounds associated with each button.
 
 UI
-<img src="https://github.com/Ibrahim99575/web-drum-play/blob/bc39e933259468ad10ab23f96306e046926f3ba4/UI.png"/>
+- <img src="https://github.com/Ibrahim99575/web-drum-play/blob/bc39e933259468ad10ab23f96306e046926f3ba4/UI.png"/>
 
 Features
 - Play drum sounds by clicking on the buttons or using keyboard keys (w, a, s, d, j, k, l).
