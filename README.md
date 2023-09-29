@@ -21,8 +21,8 @@
 
 ### Usage
 1. Clone this repository to your local machine:
-git clone <a href="https://github.com/Ibrahim99575/web-drum-play.git">https://github.com/Ibrahim99575/web-drum-play.git</a>
-2. Open the index.html file in your web browser to start using the drum kit.
+   `git clone 'https://github.com/Ibrahim99575/web-drum-play.git`
+4. Open the index.html file in your web browser to start using the drum kit.
 
 ### How It Works
 - When you click on a button or press the corresponding keyboard key, a drum sound is played.
