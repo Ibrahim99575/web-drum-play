@@ -21,6 +21,7 @@
 
 ### Usage
 1. Clone this repository to your local machine:
+   
    `git clone 'https://github.com/Ibrahim99575/web-drum-play.git`
 4. Open the index.html file in your web browser to start using the drum kit.
 
